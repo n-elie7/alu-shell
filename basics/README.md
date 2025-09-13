@@ -11,3 +11,5 @@ bash./0-current_working_directory
 ```bash
 /0-current_working_directory
 ```
+## ls command
+Its used to list content of directory.

@@ -1,4 +1,4 @@
-##ALU  Shell
+## ALU  Shell
 This repository contains shell scripting exercises and projects focused on learning bash fundamentals, file operations, and system administration tasks.
 ## Structure
 - basics/ - Basic shell commands and operations
