@@ -29,3 +29,5 @@ Display current directory contents.
 This command is used to make directory
 ## mv command
 This command is used to move or rename files
+## rm command
+This command is used to remove files from directory
