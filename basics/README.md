@@ -13,3 +13,5 @@ bash./0-current_working_directory
 ```
 ## ls command
 Its used to list content of directory.
+## cd command
+cd stands for change directory which used to navigate from one directory to another
