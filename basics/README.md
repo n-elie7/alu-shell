@@ -16,4 +16,6 @@ Its used to list content of directory.
 ## cd command
 cd stands for change directory which used to navigate from one directory to another
 ## ls -l command
-ls -l is used to display long format/details of the files or directories
+Display current directory contents in a long format
+## ls -al command
+Display current directory contents, including hidden files (starting with .). Use the long format.
