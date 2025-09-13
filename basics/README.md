@@ -19,3 +19,10 @@ cd stands for change directory which used to navigate from one directory to anot
 Display current directory contents in a long format
 ## ls -al command
 Display current directory contents, including hidden files (starting with .). Use the long format.
+## ls -lan command
+Display current directory contents.
+
+- Long format
+- with user and group IDs displayed numerically
+- And hidden files (starting with .)
+
