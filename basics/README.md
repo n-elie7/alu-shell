@@ -31,3 +31,5 @@ This command is used to make directory
 This command is used to move or rename files
 ## rm command
 This command is used to remove files from directory
+## rmdir command
+This command is used to remove directory
