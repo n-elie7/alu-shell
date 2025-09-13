@@ -27,4 +27,5 @@ Display current directory contents.
 - And hidden files (starting with .)
 ## mkdir command
 This command is used to make directory
-
+## mv command
+This command is used to move or rename files
