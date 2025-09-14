@@ -20,3 +20,5 @@ This is command  that adds execution permission to the owner, the group owner an
 This command set user and group with no permission and set others with all permissions in hello file.
 ## chmod 753 hello command
 This command that sets the mode of the file hello to -rwxr-x-wx
+## chmod --reference=olleh hello command
+This command that sets the mode of the file hello the same as olleh’s mode.
