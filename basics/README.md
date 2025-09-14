@@ -33,3 +33,5 @@ This command is used to move or rename files
 This command is used to remove files from directory
 ## rmdir command
 This command is used to remove directory
+## cd .. command
+This command is used to navigate back to the previous directory
