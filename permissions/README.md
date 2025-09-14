@@ -4,3 +4,5 @@ This directory contains command about persmissions
 This command is used to switch between different users.
 ## whoami command
 This command is used to print the effective username of the current user
+## groups command
+This command is used to prints all the groups the current user is part of.
