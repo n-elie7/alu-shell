@@ -35,3 +35,5 @@ This command is used to remove files from directory
 This command is used to remove directory
 ## cd .. command
 This command is used to navigate back to the previous directory
+## file command
+This command is used to show the type of the file
