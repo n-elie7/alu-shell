@@ -41,3 +41,5 @@ This command is used to show the type of the file
 This command is used to create soft links
 ## cp command
 This command is used to make copy of files from one place to another.
+## mv command 
+This command is used to move files from one place to another
