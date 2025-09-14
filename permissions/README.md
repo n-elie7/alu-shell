@@ -28,3 +28,5 @@ This command add to all users execute permission, but only to directories.
 This command create new directory and sets its permission to 751.
 ## chgrp school hello command
 This command change the group owner to school for the file hello.
+## chown vincent:staff *
+This command that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
