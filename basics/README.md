@@ -45,3 +45,5 @@ This command is used to make copy of files from one place to another.
 This command is used to move files from one place to another
 ## rm *~ command
 This command is used to remove file that ends with ~
+## mkdir -p welcome/to/school
+This command creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
