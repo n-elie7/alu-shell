@@ -32,3 +32,5 @@ This command change the group owner to school for the file hello.
 This command that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 ## chown -h vincent:staff _hello command
 This command changes the owner to vincent and the group owner to staff for symbolic link _hello
+## chown --from=guillaume vincent hello command
+This command changes owner only if it is owned by guillaume
