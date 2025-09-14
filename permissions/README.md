@@ -22,3 +22,5 @@ This command set user and group with no permission and set others with all permi
 This command that sets the mode of the file hello to -rwxr-x-wx
 ## chmod --reference=olleh hello command
 This command that sets the mode of the file hello the same as olleh’s mode.
+## chmod a+X * command
+This command add to all users execute permission, but only to directories.
