@@ -12,3 +12,5 @@ This command is used to change owner of the file.
 This command is used to create a new file.
 ## chmod command 
 This command is used to change permissions of file.
+## chmod ug+x,o+r hello command
+This command adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
