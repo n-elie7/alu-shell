@@ -26,3 +26,5 @@ This command that sets the mode of the file hello the same as olleh’s mode.
 This command add to all users execute permission, but only to directories.
 ## mkdir -m 751 my_dir command
 This command create new directory and sets its permission to 751.
+## chgrp school hello command
+This command change the group owner to school for the file hello.
