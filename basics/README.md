@@ -37,3 +37,5 @@ This command is used to remove directory
 This command is used to navigate back to the previous directory
 ## file command
 This command is used to show the type of the file
+## ls command
+This command is used to create soft links
