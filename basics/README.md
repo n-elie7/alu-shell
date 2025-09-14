@@ -43,3 +43,5 @@ This command is used to create soft links
 This command is used to make copy of files from one place to another.
 ## mv command 
 This command is used to move files from one place to another
+## rm *~ command
+This command is used to remove file that ends with ~
