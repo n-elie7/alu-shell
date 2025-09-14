@@ -8,3 +8,5 @@ This command is used to print the effective username of the current user
 This command is used to prints all the groups the current user is part of.
 ## chown command
 This command is used to change owner of the file.
+## touch command
+This command is used to create a new file.
