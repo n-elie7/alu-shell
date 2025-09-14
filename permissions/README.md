@@ -10,3 +10,5 @@ This command is used to prints all the groups the current user is part of.
 This command is used to change owner of the file.
 ## touch command
 This command is used to create a new file.
+## chmod command 
+This command is used to change permissions of file.
