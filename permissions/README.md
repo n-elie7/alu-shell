@@ -18,3 +18,5 @@ This command adds execute permission to the owner and the group owner, and read 
 This is command  that adds execution permission to the owner, the group owner and the other users, to the file hello.
 ## chmod 007 hello command
 This command set user and group with no permission and set others with all permissions in hello file.
+## chmod 753 hello command
+This command that sets the mode of the file hello to -rwxr-x-wx
