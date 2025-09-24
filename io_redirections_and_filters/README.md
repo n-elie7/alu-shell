@@ -12,4 +12,6 @@ You can also use this command with two files simultaneously
 Its used to display content of the file from the bottom
 ## head command
 Its used to display content of file from the top
+## head -3 iacta | tail -1 command
+This command is used to get third line of the file
 ~                                                       
