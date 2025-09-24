@@ -4,4 +4,6 @@ This directory contains command about Shell, I/O Redirections and filters
 This command helps to print something on the terminal
 ## echo "\"(Ôo)'" commmand
 This command prints confused smiley face to the console.
+## cat command
+This command is used to display content of the file
 ~                                                       
