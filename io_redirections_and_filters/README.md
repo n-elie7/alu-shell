@@ -8,4 +8,6 @@ This command prints confused smiley face to the console.
 This command is used to display content of the file
 ## cat command
 You can also use this command with two files simultaneously
+## tail command
+Its used to display content of the file from the bottom
 ~                                                       
