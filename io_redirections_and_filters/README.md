@@ -16,4 +16,6 @@ Its used to display content of file from the top
 This command is used to get third line of the file
 ## > command
 This command is used to redirect output to new file
+## ls command
+This command is used to list down all files in current working directory
 ~                                                       
