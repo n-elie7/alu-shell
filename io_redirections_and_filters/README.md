@@ -20,4 +20,6 @@ This command is used to redirect output to new file
 This command is used to list down all files in current working directory
 ## >> command
 This command is used to append content in a file
+## find command 
+This command is used to find a given file from anywhere you specified
 ~                                                       
