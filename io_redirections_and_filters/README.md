@@ -2,4 +2,6 @@
 This directory contains command about Shell, I/O Redirections and filters
 ## echo command
 This command helps to print something on the terminal
+## echo "\"(Ôo)'" commmand
+This command prints confused smiley face to the console.
 ~                                                       
