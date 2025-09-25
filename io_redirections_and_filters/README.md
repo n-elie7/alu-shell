@@ -32,4 +32,6 @@ This command is used to sort and gives unique words line by line
 This command is used to filter where there is word root in folder
 ## grep "bin" | wc -l
 This command count number of line containing word bin
+## grep -A 3 "root" /etc/passwd
+This command prints 3 lines after each finding.
 ~                                                       
