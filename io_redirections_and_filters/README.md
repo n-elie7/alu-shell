@@ -48,4 +48,6 @@ This command is used to reverse its input.
 This command extracts the 1st field (username) and the 6th field (home directory) from /etc/passwd, separated by : and sort it.
 ## find . -empty -printf "%f\n"
 This command finds empty files and directories
+## find . -type f -name '*.gif' -printf "%f\n" | rev | cut -c5- | rev | sort -f
+This command finds file with extension .gif and prints them without extensions orderly.
 ~                                                       
