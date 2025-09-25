@@ -22,4 +22,6 @@ This command is used to list down all files in current working directory
 This command is used to append content in a file
 ## find command 
 This command is used to find a given file from anywhere you specified
+## find . -mindepth 1 -type d | wc -l
+This command counts the number of directories and sub-directories in the current directory.
 ~                                                       
