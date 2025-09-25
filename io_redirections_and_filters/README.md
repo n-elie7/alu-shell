@@ -34,4 +34,6 @@ This command is used to filter where there is word root in folder
 This command count number of line containing word bin
 ## grep -A 3 "root" /etc/passwd
 This command prints 3 lines after each finding.
+## grep -v "bin" /etc/passwd
+This command prints all lines without bin in it.
 ~                                                       
