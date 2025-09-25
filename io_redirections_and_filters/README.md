@@ -36,4 +36,6 @@ This command count number of line containing word bin
 This command prints 3 lines after each finding.
 ## grep -v "bin" /etc/passwd
 This command prints all lines without bin in it.
+## grep "^[A-Za-z]" /etc/ssh/sshd_config
+This will display only lines starting with a letter, ignoring lines that start with spaces, numbers, or symbols.
 ~                                                       
