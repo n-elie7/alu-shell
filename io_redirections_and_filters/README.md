@@ -28,4 +28,6 @@ This command counts the number of directories and sub-directories in the current
 This command is used to list files according to time modified and top 10
 ## sort | uniq -u
 This command is used to sort and gives unique words line by line
+## grep "root" /etc/passwd
+This command is used to filter where there is word root in folder
 ~                                                       
