@@ -30,4 +30,6 @@ This command is used to list files according to time modified and top 10
 This command is used to sort and gives unique words line by line
 ## grep "root" /etc/passwd
 This command is used to filter where there is word root in folder
+## grep "bin" | wc -l
+This command count number of line containing word bin
 ~                                                       
