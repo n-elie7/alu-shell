@@ -40,4 +40,6 @@ This command prints all lines without bin in it.
 This will display only lines starting with a letter, ignoring lines that start with spaces, numbers, or symbols.
 ## tr 'Ac' 'Ze'
 This command will translate or replace characters.
+## tr -d "Cc"
+This command will delete where there are those specified letters.
 ~                                                       
