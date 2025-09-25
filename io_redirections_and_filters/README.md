@@ -42,4 +42,6 @@ This will display only lines starting with a letter, ignoring lines that start w
 This command will translate or replace characters.
 ## tr -d "Cc"
 This command will delete where there are those specified letters.
+## rev
+This command is used to reverse its input.
 ~                                                       
