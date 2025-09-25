@@ -46,4 +46,6 @@ This command will delete where there are those specified letters.
 This command is used to reverse its input.
 ## cut -d: -f1,6 /etc/passwd | sort
 This command extracts the 1st field (username) and the 6th field (home directory) from /etc/passwd, separated by : and sort it.
+## find . -empty -printf "%f\n"
+This command finds empty files and directories
 ~                                                       
